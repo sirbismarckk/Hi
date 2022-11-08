@@ -3,7 +3,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirbismarckk&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbismarckk&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbismarckk&langs_count=8)
 
 - 📫 How to reach me **bismarckvanegas0926@gmail.com**
 
