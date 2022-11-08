@@ -3,8 +3,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirbismarckk&theme=radical)
 
-- 📫 How to reach me **bismarckvanegas0926@gmail.com**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbismarckk&layout=compact)](https://github.com/sirbismarckk/github-readme-stats)
+
+- 📫 How to reach me **bismarckvanegas0926@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
